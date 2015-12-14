@@ -1,0 +1,39 @@
+{
+  "figures": [
+    {
+      "type": "CYLINDER",
+      "radius": 12,
+      "height": 3
+    },
+    {
+      "type": "CONE",
+      "radius": 12,
+      "height": 3
+    },
+    {
+      "type": "HALF_SPHERE",
+      "radius": 12,
+      "height": 3
+    },
+    {
+      "type": "RECTANGULAR_PARALLELEPIPED",
+      "side1": 4,
+      "side2": 6,
+      "height": 3
+    },
+    {
+      "type": "RECTANGULAR_PARALLELEPIPED",
+      "side1": 8,
+      "side2": 9,,
+      "height": 10
+    },
+    {
+      "type": "CUBE",
+      "side1": 4
+    },
+    {
+      "type": "CUBE",
+      "side1": 6
+    }
+  ]
+}

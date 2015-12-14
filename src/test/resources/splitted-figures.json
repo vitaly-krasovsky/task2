@@ -1,0 +1,13 @@
+{
+  "figures": [
+    {
+      "type": "CUBE",
+      "side1": 4
+    },
+    {
+      "type": "CYLINDER",
+      "radius": 12,
+      "height": 3
+    }
+  ]
+}
